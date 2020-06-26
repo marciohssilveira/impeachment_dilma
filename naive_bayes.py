@@ -42,5 +42,5 @@ print(classification_report(y_test, y_pred_bernoulli))
 
 example = ['deus familia militares', 'democracia estado direito', 'democracia deus familia']
 doc_term_matrix = vectorizer.transform(example)
-y_pred_example = naive_bayes.predict_proba(doc_term_matrix)
+y_pred_example = multinomial_nb.predict_proba(doc_term_matrix)
 print(y_pred_example)
