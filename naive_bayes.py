@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB, GaussianNB, BernoulliNB
 from sklearn.metrics import classification_report
 
-data = pd.read_csv('impeachment_br.csv').dropna()
+data = pd.read_csv('./data/impeachment_br.csv').dropna()
 
 
 def trata_voto(x):
