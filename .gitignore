@@ -1,1 +1,6 @@
 venv
+notebooks/.ipynb_checkpoints/analysis-checkpoint.ipynb
+notebooks/.ipynb_checkpoints/model-checkpoint.ipynb
+src/.DS_Store
+.vscode/settings.json
+.DS_Store

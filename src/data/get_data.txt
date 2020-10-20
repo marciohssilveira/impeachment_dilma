@@ -1,0 +1,11 @@
+"""
+A planilha organizada com os discursos dos deputados na votação do impeachment
+da ex presidenta Dilma Roussef foi disponibilizada pelo perfil Jornalistas Livres:
+https://www.facebook.com/jornalistaslivres/posts/361114270679123
+
+O csv pode ser obtido através do link:
+https://docs.google.com/spreadsheets/d/1rTFC9kbPqeHWrr2JalcvehgRXdAu03BwyBTgTL6oFC8/edit#gid=177016461
+
+Baixei o arquivo manualmente e salvei na pasta ./data/raw
+
+"""
